@@ -1,0 +1,7 @@
+#ignor API keys
+
+.env
+
+#ignor DB
+
+db.sqlite3
