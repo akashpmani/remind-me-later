@@ -28,6 +28,9 @@ give a post request with enough data to schedule the reminder
 
 now the reminder has been scheduled
 
+![image](https://github.com/akashpmani/remind-me-later/assets/121414718/801687b6-65fc-442f-81fe-793388e05051)
+
+
 ![image](https://github.com/akashpmani/remind-me-later/assets/121414718/ae58166e-7359-4323-bbcd-508a269f7305)
 
 ![image](https://github.com/akashpmani/remind-me-later/assets/121414718/b14b4b62-f204-42e3-839f-8ef0cd2bdfe6)
